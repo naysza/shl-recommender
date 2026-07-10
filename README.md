@@ -61,8 +61,7 @@ pip install -r requirements.txt
 cp .env.example .env   # then edit .env and add your GEMINI_API_KEY
 ```
 
-Get a free Gemini API key at https://aistudio.google.com/apikey (no credit
-card required for the free tier).
+Get a free Gemini API key at https://aistudio.google.com/apikey .
 
 Run it:
 
